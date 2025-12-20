@@ -1,4 +1,4 @@
-package basic;
+
 
 class Printer implements Runnable{
 	public void run() {
